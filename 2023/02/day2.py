@@ -65,9 +65,5 @@ def calculatePower(bag):
     return blue * green * red
 
 
-
-
 if __name__ == "__main__":
-    # Define max values for cubes colors
-
     main()
